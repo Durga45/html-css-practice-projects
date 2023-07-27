@@ -1,0 +1,15 @@
+---->Understanding Units
+    -px
+    -%
+    - vw, vh
+    -vmax,vmin
+    - em,rem
+
+--> layouts of website
+    -absolute vs flex?
+
+-->flexbox
+    - display flex
+    - aligning items in x and y axis
+    - flex direction
+    - flex wrap
